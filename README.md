@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o João Vitor Schmitt 👋
 
-<!--
-**joaovitorschmitt/joaovitorschmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
+Atualmente trabalho como Operador 2 na Newell Brands e estou estudando Desenvolvimento de Software de forma autodidata, construindo minha transição para a área de Tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Atualmente estudando
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+Conquistar minha primeira oportunidade na área de Tecnologia, aplicar meus conhecimentos na prática e evoluir continuamente como desenvolvedor.
+
+## 📫 Conecte-se comigo
+- LinkedIn: www.linkedin.com/in/joaovitorschmitt
