@@ -14,4 +14,4 @@ Atualmente trabalho como Operador 2 na Newell Brands e estou estudando Desenvolv
 Conquistar minha primeira oportunidade na área de Tecnologia, aplicar meus conhecimentos na prática e evoluir continuamente como desenvolvedor.
 
 ## 📫 Conecte-se comigo
-- LinkedIn: https://linkedin.com/in/joaovitorschmittz)
+- LinkedIn: https://linkedin.com/in/joaovitorschmittz
